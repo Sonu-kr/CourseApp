@@ -1,0 +1,30 @@
+    <resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/teal_200</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+        <style name="ClickableView">
+            <item name="colorControlHighlight">@android:color/darker_gray</item>
+            <item name="android:background">?selectableItemBackgroundBorderless</item>
+        </style>
+
+
+<!--        <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">-->
+<!--            <item name="colorPrimary">#f44336</item>-->
+<!--            <item name="colorPrimaryDark">#d32f2f</item>-->
+<!--            <item name="colorAccent">#ff4081</item>-->
+<!--&lt;!&ndash;            <item name="android:fontFamily">@font/your_custom_font</item>&ndash;&gt;-->
+<!--        </style>-->
+
+<!--        <style name="ClickableView">-->
+<!--            <item name="colorControlHighlight">#757575</item>-->
+<!--&lt;!&ndash;            <item name="android:background">@drawable/your_custom_background</item>&ndash;&gt;-->
+<!--            <item name="android:animationDuration">300</item>-->
+<!--        </style>-->
+
+
+    </resources>
